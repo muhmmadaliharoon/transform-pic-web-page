@@ -1,0 +1,358 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#main{
+    width: 105%px;
+    height: 50px;
+    background-color: rgba(48, 45, 45, 0.336);
+    background-image: url(./png1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 140px;
+ 
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 15px;
+    position: relative;
+    top: 12px;
+    left: 200px;
+    width: 100%;
+    height: 200px;
+}
+a:hover{
+    background: linear-gradient(white,black);
+  
+}
+button{
+    position: relative;
+    top: 12px;
+    left: 870px;
+    margin: 0px 1px;
+    width: 70px;
+    height: 30px;
+}
+button:hover{
+    background:linear-gradient(to right, tomato,rgb(102, 45, 45));
+}
+.boday1{
+    width: 100%;
+    height: 170px;
+    border: 1px solid black;
+    z-index: 1;
+    border-bottom: none;
+    border-right: none;
+    border-right: none;
+}
+.img1{
+    width: 170px;
+    position: absolute;
+    top:55px;
+}
+.img2{
+    width: 170px;
+    position: absolute;
+    top: 55px;
+    left: 180px;
+}
+.img3{
+    width: 170px;
+    height: 170px;
+    position: absolute;
+    top: 55px;
+    left: 358px;
+} 
+.img4{
+    width: 170px;
+    height: 170px;
+    position: absolute;
+    top: 55px;
+    left: 535px;
+}
+.img5{  width: 170px;
+    height: 170px;
+    position: absolute;
+    top: 55px;
+    left: 713px;}
+.img6{  width: 170px;
+        height: 170px;
+        position: absolute;
+        top: 55px;
+        left: 893px;}
+.img7{  width: 170px;
+            height: 170px;
+            position: absolute;
+            top: 55px;
+            left: 1075px;}
+.img8{  width: 73px;
+                height: 170px;
+                position: absolute;
+                top: 55px;
+                left: 1250px;}
+.boday2{
+    width: 108%px;
+    height: 300px;
+    background: linear-gradient(white, black);
+    border: 1px solid black;
+    position: relative;
+    top: 175px;
+    right: 5px;
+}    
+h1{
+    width: 200px;
+    height: 200px;
+    background-image: url(./10.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    position: absolute;
+    top: 39px;
+    left: 60px;
+    transform: skew(140deg);
+}
+h2{
+    width: 200px;
+    height: 200px;
+    background-image: url(./11.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    transform: skew(220deg);
+}
+
+.img9{
+    width: 200px;
+    height: 200px;
+    background-image: url(./12.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 30px;
+    left: 500px;
+    transform: skew(25deg, 20deg);
+}
+.img10{
+    width: 200px;
+    height: 200px;
+    background-image: url(./14.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 30px;
+    left: 655px;
+    transform: skew(25deg, 20deg);
+}
+.img11{
+    width: 200px;
+    height: 200px;
+    background-image: url(./15.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 50px;
+    left: 865px;
+    transform: skew(20deg, 20deg);
+    transform: rotate(20deg);
+}
+.img12{
+    width: 200px;
+    height: 200px;
+    background-image: url(./17.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 50px;
+    left: 1080px;
+    transform: skew(20deg, 20deg);
+    transform: rotate(20deg);  
+}
+.boday3{
+    width: 108%px;
+    height: 300px;
+    background: linear-gradient( to top,rgb(0, 0, 0),rgb(255, 255, 255));
+    border: 1px solid black;
+    position: relative;
+    top: 175px;
+    right: 5px;
+}
+.img13{
+    width: 200px;
+    height: 200px;
+    background-image: url(./29.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    position: absolute;
+    top: 39px;
+    left: 60px;
+    transform: skew(140deg);
+}
+.img14{
+    width: 200px;
+    height: 200px;
+    background-image: url(./27.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    transform: skew(220deg);
+}
+.img15{
+    width: 200px;
+    height: 200px;
+    background-image: url(./7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 30px;
+    left: 500px;
+    transform: skew(25deg, 20deg);
+}
+.img16{
+    width: 200px;
+    height: 200px;
+    background-image: url(./20.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 30px;
+    left: 655px;
+    transform: skew(25deg, 20deg);
+}
+.img17{width: 200px;
+    height: 200px;
+    background-image: url(./21.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 50px;
+    left: 865px;
+    transform: skew(20deg, 20deg);
+    transform: rotate(20deg);}
+.img18{
+        width: 200px;
+    height: 200px;
+    background-image: url(./22.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    position: absolute;
+    top: 50px;
+    left: 1080px;
+    transform: skew(20deg, 20deg);
+    transform: rotate(20deg);  
+    }
+    .boday4{
+        width: 108%px;
+        height: 300px;
+        background: linear-gradient( to top,rgb(0, 0, 0),rgb(255, 255, 255));
+        border: 1px solid black;
+        position: relative;
+        top: 175px;
+        right: 5px;
+     
+    }
+    .img20{
+       
+       
+        width: 200px;
+        height: 200px;
+        background-image: url(./34.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 220px;
+        position: absolute;
+        top: 50px;
+        left: 80px;
+        z-index: 1;
+        transform: skew(240deg);
+    }
+    .img21{
+        width: 200px;
+        height: 200px;
+        background-image: url(./30.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 270px;
+        position: absolute;
+        top: 30px;
+        left: 300px;
+        transform: skew(-220deg);
+    }
+    .img22{
+        width: 200px;
+        height: 200px;
+        background-image: url(./36.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 270px;
+        position: absolute;
+        top: 30px;
+        left: 650px;
+        transform: skew(30deg, 30deg);
+    }
+    .img23{
+        width: 200px;
+        height: 200px;
+        background-image: url(./31.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 290px;
+        position: absolute;
+        top: 60px;
+        left: 639px;
+        transform: skew(40deg, 20deg);
+    }
+    .img24{
+        width: 200px;
+    height: 200px;
+    background-image: url(./32.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 250px;
+    position: absolute;
+    top: 66px;
+    left: 830px;
+    transform: skew(25deg, 20deg);
+    }
+    .img25{
+        width: 200px;
+    height: 200px;
+    background-image: url(./33.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 190px;
+    position: absolute;
+    top: 50px;
+    left: 1030px;
+    transform: skew(25deg, 20deg);
+
+    }
+    .img26{
+        width: 200px;
+        height: 200px;
+        background-image: url(./33s.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 180px;
+        position: absolute;
+        top: 100px;
+        left: 1290px;
+        transform: skew(20deg, 20deg);
+        transform: rotate(20deg);      
+    }
